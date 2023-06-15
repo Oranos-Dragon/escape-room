@@ -5,7 +5,7 @@ function red() {
 
 function lines() {
     let text = prompt("What can you break, even if you never pick it up or touch it?");
-    if (text == "a promise") {
+    if (text == "a promise" || text == "promise") {
         document.getElementById("green").style.visibility = "visible";
         document.getElementById("text").style.visibility = "hidden";
         document.getElementById("door").style.visibility = "visible";

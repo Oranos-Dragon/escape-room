@@ -27,7 +27,7 @@ html {
     height: 100%;
 }
 body {
-    background-image: url(/img/backgrounds/menu.png);
+    background-image: url(../img/backgrounds/menu.png);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;

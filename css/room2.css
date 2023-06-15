@@ -2,7 +2,7 @@ html {
     height: 100%;
 }
 body {
-    background-image: url(/img/backgrounds/room2.png);
+    background-image: url(../img/backgrounds/room2.png);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
