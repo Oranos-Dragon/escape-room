@@ -1,0 +1,55 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: url(/img/backgrounds/room3.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+#green {
+    visibility: hidden;
+}
+
+#red {
+    visibility: hidden;
+}
+
+.check, .check > img {
+    position: fixed;
+    width: 6%;
+    bottom: 15%;
+    left: 13%;
+}
+
+.cross, .cross > img {
+    position: fixed;
+    width: 6%;
+    bottom: 26%;
+    left: 13%;
+}
+
+#text {
+    position: fixed;
+    width: 15%;
+    left: 51.3%;
+    bottom: 30%;
+}
+
+#door {
+    position: fixed;
+    bottom: 5%;
+    left: 34%;
+    width: 36%;
+    visibility: hidden;
+}
+
+#sand1 {
+    position:fixed;
+    width: 3%;
+    top: 32%;
+    left: 8%;
+}

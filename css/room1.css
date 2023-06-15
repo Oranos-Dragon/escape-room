@@ -1,0 +1,96 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: url(/img/backgrounds/room1.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+.big-button {
+    position: fixed;
+    right: 6.75%;
+    top: 54.7%;
+    width: 22%;
+}
+
+.numbers {
+    width: 10%;
+    position: fixed;
+    bottom: 30%;
+    left: 5.5%;
+    height: 10%;
+    text-align: center;
+    background-image: url(/img/props/numberDisplay.png);
+    background-size: cover;
+}
+
+#number {
+    font-family: courier;
+    font-weight: bold; 
+    background-color: black;
+    color:crimson;
+    
+}
+
+.buttons img {
+    position:fixed;
+    width: 4%;
+    
+}
+
+.buttons {
+    position: fixed;
+    background-color: blue;
+    bottom: 10%;
+    left: 4%;
+}
+
+#button1 {
+    bottom: 20%;
+    left: 11%;
+}
+
+#button2 {
+    bottom: 13%;
+    left: 5%;
+}
+
+#button3 {
+    left: 10%;
+    bottom: 5%;
+}
+
+#number {
+    font-size: x-large;
+    position: absolute;
+    left: 12%;
+    bottom: -5%;
+}
+
+#door {
+    visibility: hidden;
+    width: 25.945%;
+    position: fixed;
+    left: 39.6%;
+    bottom: 0%;
+}
+
+#green {
+    visibility: hidden;
+    width: 93%;
+    height: 88%;
+    margin-top: 3.5%;
+    left: 3.2%;
+    position: absolute;
+}
+
+#mogus {
+    position: fixed;
+    width: 1%;
+    left: 5%;
+    top: 2%;
+}

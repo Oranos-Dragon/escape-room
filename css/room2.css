@@ -1,0 +1,63 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: url(/img/backgrounds/room2.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+}
+
+.pillar1 {
+    position: fixed;
+    bottom: -2%;
+    left: 16%;
+    width: 11%;
+}
+
+.pillar2 {
+    position: fixed;
+    bottom: -2%;
+    right: 12.5%;
+    width: 11%;
+}
+
+#circle {
+    position: fixed;
+    width: 0.6%;
+    right: 0.1%;
+    bottom: 13%;
+}
+
+#cube {
+    position: fixed;
+    width: 0.6%;
+    top: 28%;
+    left: 24%;
+}
+
+#circle1 {
+    visibility: hidden;
+    position: fixed;
+    width: 1.5%;
+    bottom: 24.5%;
+    left: 20.7%;
+}
+
+#cube1 {
+    visibility: hidden;
+    position: fixed;
+    width: 1.5%;
+    right: 17.25%;
+    bottom: 24.5%;
+}
+
+#door {
+    visibility: hidden;
+    position: fixed;
+    width: 10%;
+    bottom: 0%;
+    left: 47.8%;
+}

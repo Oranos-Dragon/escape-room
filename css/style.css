@@ -1,0 +1,48 @@
+.wrapper {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    height: 300px;
+    margin-top: 120px;
+}
+
+.button {
+    width: 100px;
+    margin: auto;
+}
+
+
+
+h1 img {
+    height: 80px;
+margin: 45px;
+}
+
+.button img {
+    width: 100px;
+    margin: 10px;
+}
+
+html {
+    height: 100%;
+}
+body {
+    background-image: url(/img/backgrounds/menu.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mogus {
+position:absolute;
+margin-left: 170px;
+margin-top: 15px;
+}
+
+#mogus1 {
+    position: absolute;
+    margin-top: 250px;
+    width: 100px;
+}
+

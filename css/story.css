@@ -1,0 +1,44 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: url(/img/backgrounds/story.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #222034;
+}
+
+.wrapper {
+    width: 1200px;
+    margin:auto
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New';
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: 'Courier New';
+font-size: x-large;
+}
+
+
+.fire{
+   margin-top: 100px;
+   position:absolute;
+}
+
+.plr {
+    margin-left: 400px;
+    margin-top: 100px;
+}
+
+#mogus {
+    position: absolute;
+    margin-top: 440px;
+    margin-left: 1230px;
+}
